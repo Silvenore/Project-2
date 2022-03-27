@@ -10,5 +10,5 @@ My goal as the pentester was to gain access to a vulnerable machine by using the
 
 My goal as the SOC analyst was to find evidence of the pentesting attempts through logs on Kibana.
 
-I used the following presentation to document my findings.
-!(Project 2.pdf)
+I used the following presentation to document my findings.      
+- [Red vs Blue Presentation](https://github.com/Silvenore/Red-vs-Blue/blob/main/Project%202.pdf)
